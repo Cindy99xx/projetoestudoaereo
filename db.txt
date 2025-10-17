@@ -1,7 +1,6 @@
 16, Out 2025 - EMAIL: cliente751@gmail.com | TIPO: MENSAL
 16, Out 2025 - EMAIL: genailton.vanessa@hotmail.com | TIPO: MENSAL
 16, Out 2025 - EMAIL: rafa05529@gmail.com | TIPO: VITALÍCIO
-16, Out 2025 - EMAIL: ailansantana@hotmail.com | TIPO: MENSAL
 14, Out 2025 - EMAIL: negociosltda01@gmail.com | TIPO: MENSAL
 13, Out 2025 - EMAIL: alecrimedu97@gmail.com | TIPO: VITALÍCIO
 13, Out 2025 - EMAIL: valorem.agencia@gmail.com | TIPO: VITALÍCIO
@@ -44,7 +43,6 @@
 21, Set 2025 - EMAIL: lion.iptv7@gmail.com | TIPO: MENSAL
 20, Set 2025 - EMAIL: leoosinho07@gmail.com | TIPO: VITALÍCIO
 19, Set 2025 - EMAIL: allgiovanni99@gmail.com | TIPO: VITALÍCIO
-19, Set 2025 - EMAIL: meuemailcorporativo@gmail.com | TIPO: VITALÍCIO
 18, Set 2025 - EMAIL: souzaportojoao@gmail.com | TIPO: MENSAL
 18, Set 2025 - EMAIL: lk.lucaskaue@gmail.com | TIPO: MENSAL
 18, Set 2025 - EMAIL: muriloejoaovitor@gmail.com | TIPO: VITALÍCIO
